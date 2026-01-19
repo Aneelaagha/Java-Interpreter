@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![Made by Aneela](https://img.shields.io/badge/Made%20by-Aneela%20Agha-purple?style=for-the-badge)
 
-**Anz** is a lightweight, custom-built Java GUI interpreter — powered by raw logic, real-time command parsing, and classic hacker aesthetics.  
+**Anz** is a lightweight, custom-built Java GUI interpreter, powered by raw logic, real-time command parsing, and classic hacker aesthetics.  
 Built from scratch by Aneela, because theory was boring and coding is better. 😎
 ## ⚙️ Features
 
